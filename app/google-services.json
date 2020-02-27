@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "316413576468",
+    "firebase_url": "https://ml-example-eaf67.firebaseio.com",
+    "project_id": "ml-example-eaf67",
+    "storage_bucket": "ml-example-eaf67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316413576468:android:c3ec42cfa00984380bee01",
+        "android_client_info": {
+          "package_name": "com.meliodas.mlscanbarcodesexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316413576468-7lpgmnpbbe3l1q9qfednkl3os2gm32a1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUyFOlEgtUjLYfMJQBaj1luHhe-gMwwSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316413576468-7lpgmnpbbe3l1q9qfednkl3os2gm32a1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
